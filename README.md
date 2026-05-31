@@ -58,15 +58,17 @@ Performed analysis on:
 
 ### Restaurant Types Distribution
 
-(Add screenshot here)
+<img width="563" height="453" alt="bar chart2" src="https://github.com/user-attachments/assets/235a0c20-1552-44a9-a9ca-6410d45ce404" />
+
 
 ### Online Orders Distribution
+<img width="563" height="453" alt="bar chart2" src="https://github.com/user-attachments/assets/e7e63d05-e149-4c00-ac56-cf8e6cbcb157" />
 
-(Add screenshot here)
 
 ### Ratings Distribution
 
-(Add screenshot here)
+<img width="389" height="409" alt="chart1" src="https://github.com/user-attachments/assets/39ff4437-4964-411d-a3a8-e65dc30f1aea" />
+
 
 ## SQL Analysis
 
